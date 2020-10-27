@@ -1,9 +1,9 @@
 <?php
 
-namespace Admin\App;
+namespace App;
 
-use Admin\App\Controllers\LoginController;
-use Admin\App\Controllers\AdminController;
+use App\Controllers\LoginController;
+use App\Controllers\AdminController;
 
 if (isset($_SESSION['logged'])) {
     $controller = new AdminController();

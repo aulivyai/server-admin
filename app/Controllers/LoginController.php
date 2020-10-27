@@ -1,11 +1,11 @@
 <?php
 
-namespace Admin\App\Controllers;
+namespace App\Controllers;
 
-use Admin\App\Controllers\Controller;
-use Admin\App\Components\Authentication;
-use Admin\App\Components\Template;
-use Admin\App\Components\Validator;
+use App\Controllers\Controller;
+use App\Components\Authentication;
+use App\Components\Template;
+use App\Components\Validator;
 
 class LoginController extends Controller
 {

@@ -1,6 +1,6 @@
 <?php
 
-use Admin\App\Components\Validator;
+use App\Components\Validator;
 use PHPUnit\Framework\TestCase;
 
 class ValidatorTest extends TestCase

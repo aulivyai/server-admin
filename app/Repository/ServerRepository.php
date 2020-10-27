@@ -1,10 +1,10 @@
 <?php
 
-namespace Admin\App\Repository;
+namespace App\Repository;
 
-use Admin\App\Components\Database;
-use Admin\App\Config\Config;
-use Admin\App\Entity\Server;
+use App\Components\Database;
+use App\Config\Config;
+use App\Entity\Server;
 
 class ServerRepository
 {

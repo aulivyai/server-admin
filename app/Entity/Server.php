@@ -1,6 +1,6 @@
 <?php
 
-namespace Admin\App\Entity;
+namespace App\Entity;
 
 class Server
 {

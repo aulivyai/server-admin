@@ -1,6 +1,6 @@
 <?php
 
-use Admin\App\Components\Authentication;
+use App\Components\Authentication;
 use PHPUnit\Framework\TestCase;
 
 class AuthenticationTest extends TestCase

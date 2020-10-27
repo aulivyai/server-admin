@@ -1,6 +1,6 @@
 # Server Admin
 
-this is a sample PHP project where you need to be authenticated to be able to add/remove server from the database
+This is a simple PHP project where you need to be authenticated to be able to add/remove server from the database
 
 # database
 

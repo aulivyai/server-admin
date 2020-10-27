@@ -1,6 +1,6 @@
 <?php
 
-namespace Admin\App\Components;
+namespace App\Components;
 
 class Template
 {

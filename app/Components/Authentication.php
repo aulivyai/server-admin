@@ -1,8 +1,8 @@
 <?php
 
-namespace Admin\App\Components;
+namespace App\Components;
 
-use Admin\App\Config\Config;
+use App\Config\Config;
 
 class Authentication
 {

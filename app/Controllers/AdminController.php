@@ -1,12 +1,12 @@
 <?php
 
-namespace Admin\App\Controllers;
+namespace App\Controllers;
 
-use Admin\App\Components\Database;
-use Admin\App\Components\Template;
-use Admin\App\Config\Config;
-use Admin\App\Entity\Server;
-use Admin\App\Repository\ServerRepository;
+use App\Components\Database;
+use App\Components\Template;
+use App\Config\Config;
+use App\Entity\Server;
+use App\Repository\ServerRepository;
 
 class AdminController extends Controller
 {
