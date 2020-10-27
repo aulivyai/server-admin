@@ -2,11 +2,13 @@
 
 This is a simple PHP project where you need to be authenticated to be able to add/remove server from the database
 
-# database
+# Database
 
 MySql database named server  
-a `.sql` file is included to create the database  
-consist of the folowing 2 table and fields
+A `.sql` file is included to create the database  
+The connection information can be found and edited in `app/Config/Config.php`
+
+The database consist of the folowing 2 tables and fields
 
 ## user
 
@@ -18,15 +20,15 @@ id name
 
 # Test
 
-some test can be run with
+Some test can be run with
 
 ```
 ./phpunit.phar --bootstrap autoload.php tests
 ```
 
-# info
+# Info
 
-to login you can use the folowing informations
+To login you can use the folowing informations
 
 ```
 user: admin
